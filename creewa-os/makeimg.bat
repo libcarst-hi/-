@@ -1,0 +1,1 @@
+nask hst.nas hst.img
